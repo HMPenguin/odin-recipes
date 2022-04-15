@@ -7,17 +7,33 @@
 /*Main file */
 
 .main {
-    
     font-size: 50px;
     text-align: center;
-    
 }
+
 div.list {
 	text-align: center;
     font-size: 40px;
 	}
+
+/* Goes for all */    
+
 ul { 
 	display: inline-block; 
 	text-align: left; 
 	}
 
+/* Recipes */
+
+.title {
+    font-size: 40px;
+    text-align: center;
+}
+
+.description, .ingredients, .steps {
+    font-size: 30px;
+}
+
+.ingredients {
+    text-align: center;
+}
