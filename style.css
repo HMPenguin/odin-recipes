@@ -3,3 +3,21 @@
     color: rgb(9, 9, 119);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+/*Main file */
+
+.main {
+    
+    font-size: 50px;
+    text-align: center;
+    
+}
+div.list {
+	text-align: center;
+    font-size: 40px;
+	}
+ul { 
+	display: inline-block; 
+	text-align: left; 
+	}
+
